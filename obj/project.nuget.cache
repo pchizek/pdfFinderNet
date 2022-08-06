@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uc55XsLbVTZwlEAJYBYzelmgzU4+dpqhD0U2LFNkGuN2/HVhso2TGZ3cohuf5sGAhwVp5lzF8kFg8XQUjKqQRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pchizek\\Documents\\Programming\\pdfFinder\\pdfFinderNet\\pdfFinderNet\\pdfFinderNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pchizek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

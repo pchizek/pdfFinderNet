@@ -1,0 +1,16 @@
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\bin\Debug\netcoreapp3.1\pdfFinderNet.exe
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\bin\Debug\netcoreapp3.1\pdfFinderNet.deps.json
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\bin\Debug\netcoreapp3.1\pdfFinderNet.runtimeconfig.json
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\bin\Debug\netcoreapp3.1\pdfFinderNet.runtimeconfig.dev.json
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\bin\Debug\netcoreapp3.1\pdfFinderNet.dll
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\bin\Debug\netcoreapp3.1\pdfFinderNet.pdb
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.csproj.AssemblyReference.cache
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.Form1.resources
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.csproj.GenerateResource.cache
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.AssemblyInfoInputs.cache
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.AssemblyInfo.cs
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.csproj.CoreCompileInputs.cache
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.dll
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.pdb
+C:\Users\pchizek\Documents\Programming\pdfFinder\pdfFinderNet\pdfFinderNet\obj\Debug\netcoreapp3.1\pdfFinderNet.genruntimeconfig.cache
